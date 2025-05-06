@@ -19,8 +19,6 @@
 * Duplicate and randomness detection for v4
 * Decoding support: Base64 + URL-encoded
 * MAC vendor identification from static and dynamic OUI prefix maps
-* Configurable severity/confidence thresholds
-* Clean UI under Burp's Extender tab
 * Findings integrated directly into Burp’s Scanner issue list
 
 
